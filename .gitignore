@@ -1,0 +1,14 @@
+# Logs
+logs/*.log
+*.log
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
